@@ -6,4 +6,4 @@ Out put the log end of the program.
 ###Author Tommy###
 
 add shell
-for get pordacet Key
+for get porduct Key
